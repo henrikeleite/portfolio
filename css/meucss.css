@@ -1,0 +1,41 @@
+*{
+	color: black;
+	font-family: "Arial";
+	margin: 0px;
+	padding: 0px;
+	text-decoration: none;
+}
+.container{
+	width: 986px;
+	margin: auto;
+}
+#cabecalho{
+	height: 60px;
+	width: auto;
+	background: blue;	
+}
+#logo{
+	float: left;
+	font-weight: bold;
+	color: white;
+	line-height: 60px;
+}
+#menu{
+	float: right;
+
+}
+#menu li,a{
+	list-style: none;
+	display: inline;
+	color: white;
+	line-height: 60px;
+}
+.cont{
+	height: 800px;
+}
+.sobre{
+	background: gray;
+}
+.front{
+	background: orange;
+}
